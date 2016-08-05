@@ -8,6 +8,18 @@
 Plexiglass and Screw bars, Read the full tutorial in [this link](https://hwzone.co.il/%D7%9E%D7%95%D7%93%D7%99%D7%A0%D7%92-%D7%9C%D7%9E%D7%AA%D7%A7%D7%93%D7%9E%D7%99%D7%9D-%D7%AA%D7%95%D7%9B%D7%A0%D7%95%D7%AA-%D7%92%D7%A8%D7%A4%D7%99%D7%95%D7%AA-%D7%95%D7%97%D7%99%D7%AA%D7%95%D7%9A/)
 
 
+## Files
+
+The following resource files available in this repository:
+
+- [*case.ai*](https://github.com/jossef/monsterx/raw/master/src/case.ai) - the full case iv'e sent to my local Laser Cutting business
+- [*2.5 hdd.ai*](https://github.com/jossef/monsterx/raw/master/src/2.5%20hdd.ai) - mounting holes template for 2.5" drives
+- [*3.5 hdd.ai*](https://github.com/jossef/monsterx/raw/master/src/3.5%20hdd.ai) - mounting holes template for 2.5" drives 
+- [*mini itx.ai*](https://github.com/jossef/monsterx/raw/master/src/mini%20itx.ai) - mounting holes template for mini itx motherboard
+- [*psu-corsair-rm-750.ai*](https://github.com/jossef/monsterx/raw/master/src/psu-corsair-rm-750.ai) - mounting holes template for Corsair RM750 PSU (warning, this will void your warrenty) 
+- [*titan x.ai*](https://github.com/jossef/monsterx/raw/master/src/titan%20x.ai) - mounting holes template for GTX Titan X (M2.5 Screws)
+- [*general.ai*](https://github.com/jossef/monsterx/raw/master/src/general.ai) - holes template for M2.5, M3 and M6 screw holes with nuts
+
 ## Pictures
 ![image26](https://cloud.githubusercontent.com/assets/1287098/17438749/1eb374da-5b2d-11e6-86ca-8759caac2758.png)
 
@@ -39,5 +51,3 @@ Plexiglass and Screw bars, Read the full tutorial in [this link](https://hwzone.
 ![image](https://cloud.githubusercontent.com/assets/1287098/12697428/bf782176-c78b-11e5-9fe4-12de0d2e8de1.png)
 
 ![image](https://cloud.githubusercontent.com/assets/1287098/13201495/a6936e70-d87c-11e5-94dc-f84ff4011cfb.png)
-
-![image](https://cloud.githubusercontent.com/assets/1287098/12697247/8e7505f2-c787-11e5-91d9-eabc8e3f9ca5.png)
